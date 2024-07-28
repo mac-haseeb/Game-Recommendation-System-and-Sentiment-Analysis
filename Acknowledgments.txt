@@ -1,0 +1,31 @@
+Internship - II Project
+
+Masters of Applied Computing, AI Stream
+Game Recommendation System and Sentiment Analysis on Online Game Streaming
+
+Acknowledgments
+We would like to express our sincere gratitude to the individuals and institutions that contributed to the success of our project.
+
+Instructor
+Dr. Shafaq Khan
+We extend our heartfelt thanks to Dr. Shafaq Khan for her invaluable guidance, support, and encouragement throughout the project.
+Her expertise in the field of Applied Computing has greatly enriched our understanding and provided us with essential insights.
+https://www.linkedin.com/in/shafaqnaheed/
+
+Supervisor
+Dr. Prashanth C Ranga, Ph.D
+Our deepest appreciation goes to Dr. Prashanth C Ranga for supervising our work and providing us with constructive feedback and mentorship. 
+His vast knowledge and experience in the domain of AI and data analysis have been instrumental in shaping our project.
+https://www.linkedin.com/in/prashanth-ranga/
+
+Group Members
+Muhammad Haseeb Ahmad
+https://www.linkedin.com/in/mhaseeb-ahmad/
+
+Sheheryar Bin Waqar
+https://www.linkedin.com/in/sheheryar-bin-waqar-70a499142/
+
+Ashik Al Habib
+https://www.linkedin.com/in/ashik-al-habib/
+
+Himanshu Suryavanshi
